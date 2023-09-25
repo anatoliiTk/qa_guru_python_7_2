@@ -1,4 +1,4 @@
-# qa_guru_python_7_2
+# qa_guru_python_8_2
 
 Эта cтрочка была добавлена через веб интерфейс GIThub
 
